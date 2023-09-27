@@ -1,0 +1,68 @@
+PLUGINS CHROME
+
+Redux DevTools
+
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?utm_source=ext_sidebar&hl=es
+
+React Developer Tools
+
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?utm_source=ext_sidebar&hl=es
+
+JSON Formatter
+
+https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?utm_source=ext_sidebar&hl=es
+
+Allow CORS: Access-Control-Allow-Origin
+https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?utm_source=ext_sidebar&hl=es
+PLUGINS VS CODE
+
+Auto Import - ES6, TS, JSX, TSX
+https://marketplace.visualstudio.com/items?itemName=NuclleaR.vscode-extension-auto-import
+
+Auto Import
+https://marketplace.visualstudio.com/items?itemName=steoates.autoimport
+
+
+Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets
+https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode
+
+Auto Close Tag
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag
+
+Bracket Pair Colorization Toggler
+https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler
+
+Error Lens
+https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+
+ES7+ React/Redux/React-Native snippets
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+
+
+
+
+https://www.youtube.com/playlist?list=PLgwlfcqa5h3zCvFE4Av8mgLzhNnfF8_ix
+https://www.youtube.com/playlist?list=PLgwlfcqa5h3w9EHs3bQu3ZxsnMyvTXm5m
+
+Para arrancar la aplicacion en la terminal " npm run dev"
+
+https://youtu.be/vXSzU0jBxQ0?si=T0jzp3cCKDsH_YOw
+https://drive.google.com/file/d/1Oe0uA3VOG9l1f0cSN5KYxuGuCrlUw11R/view
+
+https://github.com/EggCooperation/Spring
+
+Plugin Maven: https://drive.google.com/file/d/1Kfyjq_QJh823D7S68tPPrqWjkDuYWidU/view
+
+nstalación Maven (Windows): https://drive.google.com/file/d/1a7yRbg3NZXoxgq6sTY1xj39CahuWXmkx/view
+
+
+Material de trabajo: https://drive.google.com/drive/folders/1OqYMJG1MMTpmlnF4ZqrXWCyEqZ0L0qjY
+
+Videos: https://www.youtube.com/playlist?list=PLgwlfcqa5h3zV73J6H9TwoqHWHeo8H2UC
+Repositorio: https://github.com/EggCooperation/Spring
+
+>npx create-vite Practica ' para iniciar un proyecto
+  cd Practica
+  npm install
+  npm run dev
+npm install react-router-dom  ' es para instalar las dependencias para trabajar con rutas'

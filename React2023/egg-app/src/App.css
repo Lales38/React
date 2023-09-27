@@ -1,0 +1,67 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid coral;
+  height: 70px;
+}
+.icono {
+  width: 40px;
+  height: 40px;
+}
+.navbar {
+  width: 10%;
+  height: 20%;
+}
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.footer {
+  border-top: 1px solid coral;
+  height: 50px;
+  text-align: center;
+  color: blue;
+}
+.producto.fotos {
+  width: 5%;
+  height: 5%;
+}
+.producto {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: start;
+}
+.producto img {
+  width: 130px;
+  height: 130px;
+}
+.productos {
+  flex: 1;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.producto .favIcon {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.producto .info {
+  width: 400px;
+}
+.detalle {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+  flex: 1;
+}
+.detalle .img {
+  width: 40%;
+  height: 300px;
+  margin-bottom: 30px;
+}
